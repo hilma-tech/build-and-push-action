@@ -10,7 +10,7 @@ inputs:
   AWS_REGION:
     description: "AWS Region"
     required: false
-    default: "us-east-1"
+    default: "eu-central-1"
   BUILD_CONTEXT:
     description: "Image Build Context"
     required: false
